@@ -1,0 +1,41 @@
+# Chained Hash Table in Python
+This module implements a Hash table with chained hashing in Python.
+
+## Usage
+Import the HashTable class from this module.
+Create an instance of the HashTable class.
+Use the methods provided by the HashTable class to interact with the hash table.
+```
+from hashtable import HashTable
+
+# Create a hash table
+hash_table = HashTable(size=5) 
+
+# Insert a key-value pair  
+hash_table.insert('key', 'value')
+
+# Retrieve a value by key
+value = hash_table.get('key')
+
+# Remove a key-value pair
+hash_table.remove('key') 
+
+# Check if a key exists in the hash table
+exists = hash_table.contains('key')
+```
+
+
+# Test Drivers
+
+This module includes test drivers to verify the correctness of the implementation. To run the test drivers, follow these steps:
+
+Ensure that Python is installed on your system.
+Open a terminal or command prompt.
+Navigate to the directory where the 'hashtable.py' file is located.
+Run the following command: `python -m unittest test_hashtable.py`
+The test drivers will execute and display the results of the tests.
+
+Note: The 'test_hashtable.py' file should be in the same directory as the 'hashtable.py' file.
+
+
+
