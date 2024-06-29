@@ -1,0 +1,31 @@
+
+# Kruskal's Minimum Spanning Tree Algorithm Implementation
+
+This project contains an implementation of Kruskal's Minimum Spanning Tree Algorithm using Python and the NetworkX library.
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* You have installed Python 3.x
+* You have installed the NetworkX library. If not, you can install it using pip:
+  
+```
+  pip install networkx
+  ```
+
+
+## Running the Test Drivers
+
+To run the test drivers, follow these steps:
+
+1. Open your terminal/command prompt.
+2. Navigate to the directory containing the Python script.
+3. Run the Python script using the following command:
+   
+```
+   python lab3.py
+   ```
+
+
+If the implementation of Kruskal's Minimum Spanning Tree Algorithm is correct, the script will run without raising any exceptions. I have added a test passed message to the end of the script. If you see this message, the test drivers have passed successfully.
