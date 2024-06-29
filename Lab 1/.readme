@@ -1,0 +1,30 @@
+# Sorting Algorithms Test Drivers
+
+This repository contains test drivers for various sorting algorithms implemented in the 'sorting.ipynb' Jupyter Notebook. Follow the steps below to get the test drivers running.
+
+## Prerequisites
+
+- Python 3.x
+- Jupyter Notebook
+- Matplotlib (for visualizing the sorting algorithms at end of the notebook)
+- Or use google colab - https://colab.research.google.com/ - in the setup step upload the notebook and run the code simply
+
+## Installation / Setup
+
+1. Clone this repository to your local machine.
+2. Download and install Python 3.x from the official website.
+3. Install Jupyter Notebook by running the following command in your terminal:
+   ```
+   pip install jupyter
+   ```
+4. Install Matplotlib by running the following command in your terminal:
+   ```
+    pip install matplotlib
+   ```
+5. Open the 'sorting.ipynb' notebook in Jupyter Notebook, Jupyter Lab or Google Colab.
+
+## Running the Test Drivers
+
+1. Run the code cells containing the sorting algorithms one by one in the notebook.
+2. Locate the section in the notebook where the test driver is commented.
+4. Run the test driver code cell.
