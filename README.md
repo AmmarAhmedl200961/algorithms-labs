@@ -3,8 +3,9 @@
 This repository contains implementations and analyses of various algorithms as part of coursework labs.
 
 ## Technologies Used
-- Python
-- Matplotlib for visualizations
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?logo=matplotlib&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-7f7f7f.svg?logo=networkx&logoColor=white)
 
 ## Projects
 ### Sorting Algorithms (Lab 1)
